@@ -1,14 +1,14 @@
 # Casual C Code Reviewers
 
-We founded us to to read, review and learn code. Our group is inspired by the talk [Lets review code together](https://media.ccc.de/v/rc3-2021-cwtv-228-lets-review-code-toget) by [khaleesicodes](https://github.com/khaleesicodes) and [stoeckmann](https://github.com/stoeckmann).
+This group was set up for us to read, review and learn to code. Our group is inspired by the talk [Lets review code together](https://media.ccc.de/v/rc3-2021-cwtv-228-lets-review-code-toget) by [khaleesicodes](https://github.com/khaleesicodes) and [stoeckmann](https://github.com/stoeckmann).
 
 We usually meet on Wednesday 19:00 CE(S)T in our Jitsi room.
 
-In the group are both experts and beginners and everbody is welcome. Our goals are to learn more about C, review programs and find bugs.
+The group is comprised of both beginners and experts. Our goals are to learn more about C, review programs and find bugs. Everbody is welcome join.
 
-You are intrested, have questions or want join us? Lets talk in our [discussions](https://github.com/CasualCCodeReviewers/about/discussions)!
+You are intrested, have questions or want join us? Lets talk in our [discussions](https://github.com/CasualCCodeReviewers/about/discussions) section!
 
-## Actual and finished code reviews
+## Current and past code reviews
 - [iproute2](https://github.com/shemminger/iproute2)
 
 ## Other Codereview groups
@@ -19,3 +19,5 @@ You are intrested, have questions or want join us? Lets talk in our [discussions
   reviewing Python code
 - TheBorrowCheckers ([GitHub](https://github.com/TheBorrowCheckers/about),
   [Twitter](https://twitter.com/sagi_schwarz)), reviewing Rust code
+
+A full list can be found [here](https://github.com/stoeckmann/letsreview/blob/main/README.md#known-groups).
