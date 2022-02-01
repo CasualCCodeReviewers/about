@@ -4,9 +4,9 @@ This group was set up for us to read, review and learn to code. Our group is ins
 
 We usually meet on Wednesday 19:00 CE(S)T in our Jitsi room.
 
-The group is comprised of both beginners and experts. Our goals are to learn more about C, review programs and find bugs. Everbody is welcome join.
+The group is comprised of both beginners and experts. Our goals are to learn more about C, review programs and find bugs. Everybody is welcome to join.
 
-You are intrested, have questions or want join us? Lets talk in our [discussions](https://github.com/CasualCCodeReviewers/about/discussions) section!
+You are interested, have questions or want to join us? Lets talk in our [discussions](https://github.com/CasualCCodeReviewers/about/discussions) section!
 
 ## Current and past code reviews
 - [iproute2](https://github.com/shemminger/iproute2)
