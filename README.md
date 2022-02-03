@@ -19,5 +19,6 @@ You are interested, have questions or want to join us? Lets talk in our [discuss
   reviewing Python code
 - TheBorrowCheckers ([GitHub](https://github.com/TheBorrowCheckers/about),
   [Twitter](https://twitter.com/sagi_schwarz)), reviewing Rust code
+- Lets Read Java ([GitHub](https://github.com/LetsReadJava/About)), reviewing Java code
 
 A full list can be found [here](https://github.com/stoeckmann/letsreview/blob/main/README.md#known-groups).
