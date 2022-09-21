@@ -13,8 +13,6 @@ You are interested, have questions or want to join us? Lets talk in our [discuss
 
 ## Other Codereview groups
 
-- C3H2-CTF ([GitHub](https://github.com/c3h2-ctf/),
-  [Twitter](https://twitter.com/c3h2_ctf)), reviewing popular tools
 - Lets Read Java ([GitHub](https://github.com/LetsReadJava/About)), reviewing Java code
 - ThanatosisSerpentis ([GitHub](https://github.com/ThanatosisSerpentis)),
   reviewing Python code
